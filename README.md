@@ -29,4 +29,6 @@ This project is developed for academic and cybersecurity awareness purposes.
 
 ![image alt](https://github.com/Yash-byte-hub/VOIS_INTERNSHIP_AI_NIDS_Project/blob/095c26c5bf9d22d958faa789087c71bd1cdbd830/model_training_complete.png)
 
+![image alt](https://github.com/Yash-byte-hub/VOIS_INTERNSHIP_AI_NIDS_Project/blob/e98338548a37c970fec532950c587676cd89d3f9/live_traffic_simulator.png)
+
 

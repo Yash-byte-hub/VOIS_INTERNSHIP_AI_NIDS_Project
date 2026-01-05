@@ -22,3 +22,5 @@ This project demonstrates an AI-powered Network Intrusion Detection System (NIDS
    streamlit run nids_main.py
 
 This project is developed for academic and cybersecurity awareness purposes.
+
+![image alt](https://github.com/Yash-byte-hub/VOIS_INTERNSHIP_AI_NIDS_Project/blob/12f734662024f0b83d829b0266bef3b04df5a6e1/AI_NIDS_Dashboard_Browser_Running.png)
